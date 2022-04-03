@@ -115,7 +115,7 @@ body{
     }
     .container{
         display: grid;
-        width: 1000px;
+        width: 100vw;
         height: 100%;
         grid-template-columns: repeat(5,1fr);
         grid-template-rows: repeat(4,1fr);
@@ -132,31 +132,31 @@ body{
         height: 60vh;
     }
     .one{
-        transform: translate(20px,90px);
-        -webkit-transform: translate(20px,90px);
-        -moz-transform: translate(20px,90px);
-        -ms-transform: translate(20px,90px);
-        -o-transform: translate(20px,90px);
+        transform: translate(290px,110px);
+        -webkit-transform: translate(290px,110px);
+        -moz-transform: translate(290px,110px);
+        -ms-transform: translate(290px,110px);
+        -o-transform: translate(290px,110px);
 }
     .two{
-        transform: translate(340px,-250px);
-        -webkit-transform: translate(340px,-250px);
-        -moz-transform: translate(340px,-250px);
-        -ms-transform: translate(340px,-250px);
-        -o-transform: translate(340px,-250px);
+        transform: translate(610px,-240px);
+        -webkit-transform: translate(610px,-240px);
+        -moz-transform: translate(610px,-240px);
+        -ms-transform: translate(610px,-240px);
+        -o-transform: translate(610px,-240px);
 }
     .three{
-        transform: translate(340px,-250px);
-        -webkit-transform: translate(340px,-250px);
-        -moz-transform: translate(340px,-250px);
-        -ms-transform: translate(340px,-250px);
-        -o-transform: translate(340px,-250px);
+        transform: translate(610px,-240px);
+        -webkit-transform: translate(610px,-240px);
+        -moz-transform: translate(610px,-240px);
+        -ms-transform: translate(610px,-240px);
+        -o-transform: translate(610px,-240px);
 }
     .four{
-        transform: translate(660px,-573px);
-        -webkit-transform: translate(660px,-573px);
-        -moz-transform: translate(660px,-573px);
-        -ms-transform: translate(660px,-573px);
-        -o-transform: translate(660px,-573px);
+        transform: translate(930px,-553px);
+        -webkit-transform: translate(930px,-553px);
+        -moz-transform: translate(930px,-553px);
+        -ms-transform: translate(930px,-553px);
+        -o-transform: translate(930px,-553px);
 }
 }
